@@ -2,7 +2,7 @@
 - 👀 Graphic Design
 - 🌱 Security
 - 💞️ Social Networks
-- 📫 xat.me/iiADJii - My Xat Space
+- 📫 xat.me/Erik - My XatSpace
 
 <!---
 SirHayk/SirHayk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
